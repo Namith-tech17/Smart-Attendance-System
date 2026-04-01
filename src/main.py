@@ -1,1 +1,0 @@
-print("Smart Attendance System Started")
